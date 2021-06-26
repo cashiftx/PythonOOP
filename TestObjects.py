@@ -5,5 +5,5 @@ class Animals:
         self.age = age
     #    self.name = name
 
-Lion = Animals("Leo","Orange",7)
+Lion = Animals("Leo","Orange",12)
 print("Lion's name is " + Lion.name + " and Lion's age is " + str(Lion.age))
